@@ -11,8 +11,7 @@ Build PMP in 3 easy steps using docker.
 ~~~
 $ ssh-keygen -q -t rsa -f /root/.ssh/id_rsa -N ""
 ~~~
-2.
-add your public key to github /root/.ssh/id_rsa.pub
+2. add your public key to github /root/.ssh/id_rsa.pub
 
 3. build PMP and copy files from container to /root 
 ~~~
