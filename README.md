@@ -3,7 +3,7 @@ Plex Media Player build repository
 
 requires: github account, ssh key + 100G disk space to build.
 
-Build PMP in 3 easy steps using docker.
+Build PMP in 4 easy steps using docker.
 
 1. create github.com account
 
