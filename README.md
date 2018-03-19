@@ -17,7 +17,7 @@ contains: Dockerfile + build.sh
 
 `ssh-keygen -q -t rsa -f /root/.ssh/id_rsa -N ""`
 
-4. add your public key to github /root/.ssh/id_rsa.pub
+4. add your public key /root/.ssh/id_rsa.pub to https://github.com/settings/keys
 
 5. build PMP and copy files from container to host:/root and remove container again.
 
