@@ -15,13 +15,13 @@ contains: Dockerfile + build.sh
 
 3. create ssh key /root/.ssh/id_rsa
 
-`$ ssh-keygen -q -t rsa -f /root/.ssh/id_rsa -N ""`
+`ssh-keygen -q -t rsa -f /root/.ssh/id_rsa -N ""`
 
 4. add your public key to github /root/.ssh/id_rsa.pub
 
 5. build PMP and copy files from container to host:/root and remove container again.
 
-`$ sh build.sh`
+`sh build.sh`
 
 
 
