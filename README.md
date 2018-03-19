@@ -1,5 +1,5 @@
-# devel
-Plex Media Player build repository
+
+# Plex Media Player build repository
 
 requires: github account, ssh key + 100G disk space to build.
 
