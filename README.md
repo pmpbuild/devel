@@ -21,3 +21,5 @@ $ sh build.sh
 ~~~
 
 that's it takes about 6 hours to build using i7 2.93Ghz
+
+thanks to (https://forums.plex.tv/profile/discussions/stedaniels)[stedaniels] for build instructions.
